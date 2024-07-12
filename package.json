@@ -2,6 +2,7 @@
   "name": "clock",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://iliyan300.github.io/Digital-Clock-App/",
   "type": "module",
   "scripts": {
     "dev": "vite",
