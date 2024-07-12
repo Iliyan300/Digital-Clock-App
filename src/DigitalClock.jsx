@@ -51,6 +51,7 @@ function DigitalClock() {
                 <span className='month'>{setZero(month + 1)} / {setZero(day)}</span> <br />
                 <span className='year'>{year}</span> 
             </div>
+            
         </div>
         
         </>
